@@ -1,0 +1,6 @@
+Lab00
+To comment in c++ the // is the most common, but /* and */ are also used and work for multi-line comments.
+To comment in python the # is used. Python comments can only be made one line at a time.
+The file extension .md stands for mark down and is used as the base for various mark up files.
+
+Lab01
